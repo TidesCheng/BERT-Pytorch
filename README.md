@@ -35,17 +35,17 @@ python finetune.py finetune
 Here to simplify, the task is next sentence prediction. The same dataset as in step 1 is used.
 
 ## Experiments
-Setting:
-sentence pairs: 1467976
-vocab size: 200004
-parameters: 243077258
-epochs: 8
-
-![loss of masked language model](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/lm_loss.png)
-![accuracy of masked language model](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/lm_acc.png)
-![loss of next prediction](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/next_loss.png)
+Setting:  
+sentence pairs: 1467976  
+vocab size: 200004  
+parameters: 243077258  
+epochs: 8  
+  
+![loss of masked language model](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/lm_loss.png)  
+![accuracy of masked language model](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/lm_acc.png)  
+![loss of next prediction](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/next_loss.png)  
 ![accuracy of next prediction](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/next_acc.png)
-
+  
 
 
 
