@@ -41,10 +41,10 @@ vocab size: 200004
 parameters: 243077258  
 epochs: 8  
   
-![alt text](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/lm_loss.png "loss of masked language model")  
-![alt text](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/lm_acc.png "accuracy of masked language model")  
-![alt text](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/next_loss.png "loss of next prediction")  
-![alt text](https://github.com/TidesCheng/BERT-Pytorch/tree/master/exp_images/next_acc.png "accuracy of next prediction")
+![alt text](exp_images/lm_loss.png "loss of masked language model")  
+![alt text](exp_images/lm_acc.png "accuracy of masked language model")  
+![alt text](exp_images/next_loss.png "loss of next prediction")  
+![alt text](exp_images/next_acc.png "accuracy of next prediction")
   
 
 
