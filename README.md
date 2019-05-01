@@ -40,10 +40,14 @@ sentence pairs: 1467976
 vocab size: 200004  
 parameters: 243077258  
 epochs: 8  
-  
+
+Loss of masked language model   
 ![alt text](exp_images/lm_loss.png "loss of masked language model")  
+Accuracy of masked language model  
 ![alt text](exp_images/lm_acc.png "accuracy of masked language model")  
+Loss of next prediction   
 ![alt text](exp_images/next_loss.png "loss of next prediction")  
+Accuracy of next prediction   
 ![alt text](exp_images/next_acc.png "accuracy of next prediction")
   
 
