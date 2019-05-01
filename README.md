@@ -6,7 +6,7 @@ A pytorch implemetation of BERT model.
 ```bash
 cd data
 ```
-Training need a text file that store sentence pairs, which have format such as 'I like dogs \$\$\$ I also like cats'. By default, the file is named as 'bert_train_pairs.txt'.
+Training need a text file that store sentence pairs, which have format such as 'I like dogs \$\$\$ I also like cats'. By deault, the file is named as 'bert_train_pairs.txt'.
 ```bash
 python extract_word2idx.py extract
 ```
@@ -34,10 +34,6 @@ python finetune.py finetune
 ```
 Here to simplify, the task is next sentence prediction. The same dataset as in step 1 is used.
 
-## EXperiments
-Settings:
-sentence paris: 1467976
-vocab_size: 200004
-parameters: 243077258
-epochs: 8
+
+
 
